@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Cristopher%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h3 align="center">💻 Web Developer | Programming Enthusiast</h3>
+<h3 align="center">💻 Web Developer</h3>
 
 <p align="center">
   <em>Building modern web experiences & learning backend every day 🚀</em>
@@ -23,27 +23,7 @@ I'm a **Web Developer** from **Peru 🇵🇪**, passionate about creating clean,
 
 ## 🛠️ Technology Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,cs,sql" />
-</p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-</p>
-
-### 🗄️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql" />
-</p>
-
-### ⚙️ Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -65,16 +45,4 @@ I'm a **Web Developer** from **Peru 🇵🇪**, passionate about creating clean,
 </p>
 
 ---
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="TU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="TU_WEB"><img src="https://skillicons.dev/icons?i=chrome" /></a>
-  <a href="mailto:TU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks
+⭐ Thanks
