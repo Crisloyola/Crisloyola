@@ -1,79 +1,80 @@
-# 👋 Hola, soy Cristopher Loyola
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Cristopher%20👋&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h3 align="center">💻 Web Developer | Programming Enthusiast</h3>
 
 <p align="center">
-  <strong>Desarrollador Web | Programador | Apasionado por la tecnología</strong>
+  <em>Building modern web experiences & learning backend every day 🚀</em>
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 About Me
 
-Soy **Desarrollador Web** con experiencia en la creación de sitios y aplicaciones modernas, enfocado en **programación**, **rendimiento** y **buenas prácticas**.
+I'm a **Web Developer** from **Peru 🇵🇪**, passionate about creating clean, efficient and scalable web applications.
 
-Me gusta aprender constantemente, resolver problemas reales con código y ayudar a empresas a crecer mediante soluciones digitales.
-
-- 💼 Fundador de **HomeDigital**
-- 🧠 Interesado en **Backend y Bases de Datos**
-- 🌎 Desde **Perú**
-- 📈 Siempre mejorando mis habilidades
+- 💼 Founder of **HomeDigital**
+- 🌱 Learning **Backend & Databases**
+- ⚡ Love clean code and performance
+- 🎯 Goal: become a strong backend developer
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Technology Stack
 
-### 💻 Lenguajes
-- JavaScript
-- Java
-- C#
-- SQL
-
-### 🌐 Desarrollo Web
-- HTML5
-- CSS3
-- Tailwind CSS
-- React
-- Next.js
-
-### 🗄️ Backend & BD
-- Node.js
-- .NET
-- MySQL
-
-### ⚙️ Herramientas
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
-
----
-
-## 📌 Proyectos Destacados
-
-- 🔹 **ApexCAD Perú** – Sitio web corporativo con Next.js y Tailwind
-- 🔹 **HomeDigital** – Desarrollo web para negocios
-- 🔹 **MARA CAPITAL** – Página web para empresa de préstamos
-- 🔹 **Proyectos personales** enfocados en backend y bases de datos
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,cs,sql" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
+
+### 🗄️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql" />
+</p>
+
+### ⚙️ Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 📫 Contáctame
+## 🚀 Featured Projects
 
-- 🌐 Web: <TU_WEB>
-- 💼 LinkedIn: <TU_LINKEDIN>
-- 📧 Email: <TU_EMAIL>
+- 🔹 **ApexCAD Perú** – Corporate website (Next.js + Tailwind)
+- 🔹 **HomeDigital** – Web solutions for businesses
+- 🔹 **MARA CAPITAL** – Financial company website
+- 🔹 Personal projects focused on backend & databases
 
 ---
 
-⭐ _Gracias por visitar mi perfil. ¡El código nunca duerme!_
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="TU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="TU_WEB"><img src="https://skillicons.dev/icons?i=chrome" /></a>
+  <a href="mailto:TU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks
