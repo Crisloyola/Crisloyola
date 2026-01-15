@@ -1,38 +1,26 @@
-<h1 align="center">Hi, I'm Cristopher Loyola 👋</h1>
+Hey there! 👋  
+I’m **Cristopher**, a web developer based in **Peru 🇵🇪**.
 
----
+I design and build practical digital solutions.
 
-## ⭐ About me
-
-I’m a **web developer** based in **Peru 🇵🇪**.
-
-I build practical and scalable web solutions.  
 When an idea makes sense, I turn it into code and ship it.
 
-My main stack is **TypeScript, React, Next.js, and Tailwind CSS**.  
-Currently focused on **backend development and databases**.
+My main tech stack includes **TypeScript, React, Next.js, and Tailwind CSS**.  
+Recently, I’ve been focusing more on **backend development and databases**, with the goal of building solid and scalable systems.
 
-- 🎯 Goal: become a solid **Backend Developer**
-- 💼 Founder of **NexusDev**
+I’ve worked on multiple projects for both businesses and personal growth.  
+One of the projects I’m most proud of is **BackApp**, built with **Next.js & Tailwind CSS**.
 
----
+I’ve built many public repositories, and privately even more experiments, prototypes, and ideas that have helped me grow as a developer.
 
-## 🛠 Skills
-
-**Languages:** TypeScript, JavaScript, Java, C#, SQL  
-**Frameworks:** React, Next.js, Tailwind CSS, .NET  
-**Tools:** Git, GitHub, Docker, Linux, VS Code
+If you want to see what I build, feel free to check out my pinned repositories below.
 
 ---
 
-## 📌 Projects
+### Fun Facts
+- 🇵🇪 Based in Peru  
+- 💼 Founder of **NexusDev**  
+- 🧠 Interested in backend & databases  
+- 🛠️ I enjoy building things from scratch  
 
-- **BackApp** – Next.js & Tailwind CSS  
-- **ApexCAD Perú** – Corporate website  
-- Personal backend-focused projects
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile
-</p>
+Thanks for visiting my profile ⭐
