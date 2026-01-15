@@ -1,48 +1,28 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Cristopher%20👋&fontSize=40&fontColor=ffffff" />
-</p>
+Hey there! 👋  
+I’m **Cristopher**, a web developer based in **Peru 🇵🇪**.
 
-<h3 align="center">💻 Web Developer</h3>
+I design and build practical digital solutions.
 
-<p align="center">
-  <em>Building modern web experiences & learning backend every day 🚀</em>
-</p>
+When an idea makes sense, I turn it into code and ship it.
 
----
+My main tech stack includes **JavaScript, React, Next.js, and Tailwind CSS**.  
+Lately, I’ve been focusing more on **backend development and databases**, aiming to build solid and scalable systems.
 
-## 👨‍💻 About Me
+I’ve worked on multiple projects for businesses and personal growth.  
+One of the projects I’m most proud of is **ApexCAD Perú**, built with **Next.js & Tailwind CSS**.
 
-I'm a **Web Developer** from **Peru 🇵🇪**, passionate about creating clean, efficient and scalable web applications.
+I’ve built many public repositories, and privately even more experiments, prototypes, and ideas that helped me improve as a developer.
 
-- 💼 Founder of **HomeDigital**
-- 🌱 Learning **Backend & Databases**
-- ⚡ Love clean code and performance
-- 🎯 Goal: become a strong backend developer
+If you want to see what I build, check out my pinned repositories below.
 
 ---
 
-## 🛠️ Technology Stack
+### Fun Facts
+- 🇵🇪 Based in Peru  
+- 💼 Founder of **HomeDigital**  
+- 🏋️ Gym enthusiast  
+- 🎌 Anime fan  
+- 🧠 Interested in backend & databases  
+- 🛠️ I enjoy building things from scratch  
 
-
-
-## 🚀 Featured Projects
-
-- 🔹 **ApexCAD Perú** – Corporate website (Next.js + Tailwind)
-- 🔹 **HomeDigital** – Web solutions for businesses
-- 🔹 **MARA CAPITAL** – Financial company website
-- 🔹 Personal projects focused on backend & databases
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-⭐ Thanks
+Thanks for visiting my profile. ⭐
