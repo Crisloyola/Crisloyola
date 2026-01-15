@@ -19,9 +19,7 @@ If you want to see what I build, check out my pinned repositories below.
 
 ### Fun Facts
 - 🇵🇪 Based in Peru  
-- 💼 Founder of **HomeDigital**  
-- 🏋️ Gym enthusiast  
-- 🎌 Anime fan  
+- 💼 Founder of **NexusDev**  
 - 🧠 Interested in backend & databases  
 - 🛠️ I enjoy building things from scratch  
 
